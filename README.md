@@ -1,6 +1,6 @@
-# [AmneziaWG](https://amnezia.org/) for Windows
+# WGSafe for Windows
 
-This is a fully-featured AmneziaWG client for Windows that uses [Wintun](https://www.wintun.net/). It is the only official and recommended way of using AmneziaWG on Windows.
+This is a fully-featured AmneziaWG client for Windows that uses [Wintun](https://www.wintun.net/). It is the only official and recommended way of using WGSafe on Windows.
 
 ## Download &amp; Install
 
@@ -45,3 +45,14 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
 ```
+
+# Compile
+Run:
+Powershell
+```
+.\build.bat
+```powershell
+CMD
+```
+build.bat
+```cmd
