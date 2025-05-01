@@ -51,8 +51,8 @@ Run:
 Powershell
 ```
 .\build.bat
-```powershell
+```text
 CMD
 ```
 build.bat
-```cmd
+```text
